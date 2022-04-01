@@ -1,5 +1,5 @@
 # Game Engine
-RPG style game engine written in Java.
+RPG style game engine written in Java. Graphic assets are not included due to unknown copyright status.
 
 <h2>Current state</h2>
 Current features include 2 distinct methods for rendering sprites. New method is implemented, but not utilized.<br>
